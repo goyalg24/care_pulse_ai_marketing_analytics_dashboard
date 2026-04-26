@@ -17,7 +17,7 @@ export default function Header() {
         <h1 className="logo">CarePulse</h1>
         {user && (
           <div className="header-right">
-            <span className="user-name">Welcome, {user.name}</span>
+            <span className="user-name">Welcome, {user.username}</span>
             <button onClick={handleLogout} className="btn-logout">
               Logout
             </button>
