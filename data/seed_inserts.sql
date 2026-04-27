@@ -1,0 +1,2 @@
+-- Synthetic seed inserts generated for CarePulse
+-- Prefer importing CSVs for large loads.

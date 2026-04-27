@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+__pycache__/
+node_modules/
+frontend/node_modules/
+PulseAPI/node_modules/
+frontend/dist/
+PulseAPI/marketing.db
+.env
+frontend/.env
